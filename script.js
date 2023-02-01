@@ -1,5 +1,5 @@
 //Create the array of beers
-let beers = {
+const beers = {
         name:['Peak beer', 
             'Chimay', 
             'Val-Dieu', 
